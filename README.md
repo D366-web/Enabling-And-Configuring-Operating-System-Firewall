@@ -4,3 +4,4 @@ Operating System Firewall Setup and Configuration, a project that showcase best 
 To get started, access your operating system’s firewall settings by following these steps:
 
 Open the Settings menu, then navigate to the Privacy & Security section and click on it.
+1.png
