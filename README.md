@@ -1,5 +1,17 @@
 # Enabling-And-Configuring-Operating-System-Firewall
-Operating System Firewall Setup and Configuration, a project that showcase best practices for enabling and configuring operating system firewalls for robust security measures to safeguard systems and networks.
+This project demonstrates the steps to enable and configure the operarting system firewall on Window. The goal of this project is to provide comprehensive guide on securing window by configuring the firewall to allow or block incoming and outgoing network traffic:
+
+What is a Firewall?
+A firewall is a system that is designed to prevent unauthorized access to entering a private network by filitering the information that comes in from the internet. 
+The purpose of a firewall is to create a safety barrier between a private network and a public network.
+
+Project Overview
+In this project, i will walk through the process of:
+
+1. Enabling the window operating system firewall to improve security
+2. Configuring firewall rules
+3. Allowing or blocking programs and applications. 
+
 
 To get started, access your operating system’s firewall settings by following these steps:
 
