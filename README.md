@@ -2,6 +2,7 @@
 This project demonstrates the steps to enable and configure the operarting system firewall on Window. The goal of this project is to provide comprehensive guide on securing window by configuring the firewall to allow or block incoming and outgoing network traffic.
 
 What is a Firewall?
+
 A firewall is a system that is designed to prevent unauthorized access to entering a private network by filitering the information that comes in from the internet. 
 The purpose of a firewall is to create a safety barrier between a private network and a public network.
 
@@ -59,6 +60,7 @@ To ensure the firewall rule is working correctly, you can test it by attempting 
 <img src="./77.png" width="100%" height="auto">
 
 Conclusion
+
 This project demonstrated the process of enabling and configuring the built-in firewall on Window Operating System. It included locating the firewall settings, activating the firewall, and creating a rule to block a specific program. The steps followed highlight essential skills for managing network security and protecting digital environments from unauthorized access.
    
 
