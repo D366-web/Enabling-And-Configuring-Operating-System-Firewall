@@ -3,8 +3,8 @@ Operating System Firewall Setup and Configuration, a project that showcase best 
 
 To get started, access your operating system’s firewall settings by following these steps:
 
-Open the Settings menu, then navigate to the window Security section and click on it.
+1. Open the Settings menu, then navigate to the Window Security section and click on it.
 <img src="./1.png" width="100%" height="auto">
 
-2. Go to Privacy & Security and check the Firewall & Network Protection settings to make sure the firewall is turned on.
+2. Go to Window Security and check the Firewall & Network Protection settings to make sure the firewall is turned on.
  <img src="./2.png" width="100%" height="auto">
