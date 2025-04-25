@@ -1,5 +1,5 @@
 # Enabling-And-Configuring-Operating-System-Firewall
-This project demonstrates the steps to enable and configure the operarting system firewall on Window. The goal of this project is to provide comprehensive guide on securing window by configuring the firewall to allow or block incoming and outgoing network traffic:
+This project demonstrates the steps to enable and configure the operarting system firewall on Window. The goal of this project is to provide comprehensive guide on securing window by configuring the firewall to allow or block incoming and outgoing network traffic.
 
 What is a Firewall?
 A firewall is a system that is designed to prevent unauthorized access to entering a private network by filitering the information that comes in from the internet. 
@@ -50,6 +50,16 @@ If it's not turned on, click the Enable or Turn On button.
 
 10. Give the rule a name (like "Block Google Chrome"), and click Finish.
 <img src="./79.png" width="100%" height="auto">
+
+Step 3: Testing the firewall rule
+To ensure the firewall rule is working correctly, you can test it by attempting to access a service running on the blocked port. Follow these steps:  
+
+1. Launch the browser for which you applied the rule in step 2.
+2. If the firewall rule is configured correctly, you should receive an error message indicating that the connection was blocked.
+<img src="./77.png" width="100%" height="auto">
+
+Conclusion
+This project demonstrated the process of enabling and configuring the built-in firewall on Window Operating System. It included locating the firewall settings, activating the firewall, and creating a rule to block a specific program. The steps followed highlight essential skills for managing network security and protecting digital environments from unauthorized access.
    
 
  
