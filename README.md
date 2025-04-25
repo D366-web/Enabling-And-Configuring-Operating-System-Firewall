@@ -31,10 +31,12 @@ If it's not turned on, click the Enable or Turn On button.
 <img src="./11.png" width="100%" height="auto">
 
 8. When you get to the screen that asks what to do with the connection, choose Block the connection.
-   <img src="./8.png" width="100%" height="auto">
+<img src="./8.png" width="100%" height="auto">
 
 9. Click Next, then choose when the rule applies (Domain, Private, Public).
-    
+<img src="./9.png" width="100%" height="auto">
+
+10. Give the rule a name (like "Block Google Chrome"), and click Finish.
    
 
  
