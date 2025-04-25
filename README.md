@@ -37,6 +37,7 @@ If it's not turned on, click the Enable or Turn On button.
 <img src="./9.png" width="100%" height="auto">
 
 10. Give the rule a name (like "Block Google Chrome"), and click Finish.
+<img src="./79.png" width="100%" height="auto">
    
 
  
