@@ -5,3 +5,6 @@ To get started, access your operating system’s firewall settings by following 
 
 Open the Settings menu, then navigate to the window Security section and click on it.
 <img src="./1.png" width="100%" height="auto">
+
+2. Go to Privacy & Security and check the Firewall & Network Protection settings to make sure the firewall is turned on.
+ <img src="./2.png" width="100%" height="auto">
